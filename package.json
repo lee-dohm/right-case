@@ -1,0 +1,16 @@
+{
+  "name": "right-case",
+  "main": "./lib/right-case",
+  "version": "0.0.0",
+  "description": "Converts the word or selection to the case style you choose.",
+  "repository": "https://github.com/lee-dohm/right-case",
+  "activationCommands": {
+    "atom-text-editor": [
+      "right-case:title-case"
+    ]
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  }
+}
