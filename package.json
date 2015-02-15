@@ -1,7 +1,7 @@
 {
   "name": "right-case",
   "main": "./lib/right-case",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Converts the word or selection to the case style you choose.",
   "repository": "https://github.com/lee-dohm/right-case",
   "activationCommands": {
