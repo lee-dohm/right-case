@@ -1,4 +1,4 @@
-# Right Case
+# Right Case [![Build Status](https://travis-ci.org/lee-dohm/right-case.svg?branch=master)](https://travis-ci.org/lee-dohm/right-case) [![Dependency Status](https://david-dm.org/lee-dohm/right-case.svg)](https://david-dm.org/lee-dohm/right-case)
 
 Converts the selection to the case style you choose.
 
