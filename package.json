@@ -1,7 +1,7 @@
 {
   "name": "right-case",
   "main": "./lib/right-case",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Converts the word or selection to the case style you choose.",
   "keywords": [
     "case",
